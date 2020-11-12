@@ -7,6 +7,6 @@ const Second = () => {
             <Text>Second</Text>
         </View>
     )
-}
+};
 
 export {Second};
